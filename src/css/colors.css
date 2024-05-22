@@ -15,10 +15,10 @@ $ui-black-transparent: var(--ui-black-transparent, $ui-black-transparent-default
 $text-primary: var(--text-primary, hsla(225, 15%, 40%, 1)); /* #575E75 */
 $text-primary-transparent: hsla(225, 15%, 40%, 0.75);
 
-$motion-primary: hsla(194, 100%, 50%, 1); /* #00c3ff */
-$motion-tertiary: hsla(203, 100%, 39%, 1); /* #007bc7 */
-$motion-transparent: hsla(194, 100%, 50%, 0.35); /* 35% transparent version of motion-primary */
-$motion-light-transparent: hsla(203, 100%, 39%, 0.15); /* 15% transparent version of motion-primary */
+$motion-primary: hsla(350, 100%, 50%, 1); /* #FFC0CB */
+$motion-tertiary: hsla(350, 100%, 39%, 1); /* #FFC0CB */
+$motion-transparent: hsla(350, 100%, 50%, 0.35); /* 35% transparent version of motion-primary */
+$motion-light-transparent: hsla(350, 100%, 39%, 0.15); /* 15% transparent version of motion-primary */
 
 /* opt-in theme overrides */
 $motion-primary-dark: #009CCC; /*top bar color when in dark mode*/
